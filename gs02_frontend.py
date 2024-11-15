@@ -41,7 +41,6 @@ previsao = resultado.forecast(steps=30)  # Previsão para 30 dias
 
 """3. Implementação do WebApp no Streamlit:"""
 
-!pip install streamlit
 
 import streamlit as st
 import matplotlib.pyplot as plt
